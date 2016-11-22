@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SharedLogger</id>
+    <version>1.0</version>
+    <title>SharedLogger</title>
+    <authors>Manu Shivakumar</authors>
+    <owners>Manu Shivakumar</owners>
+    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Nothing to see here, just install this for learning</description>
+    <releaseNotes>Initial push</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Created for logging</tags>
+  </metadata>
+</package>
